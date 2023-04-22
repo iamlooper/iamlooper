@@ -5,7 +5,7 @@ I'm Looper, a loopy android developer. I'm passionate about making a difference 
 - 🚀 Working on making software better
 - 💻 Skilled in Shell scripting, C++ & Java
 - 🧐 Curious about my projects? Just ask!
-- 📧 Reach me at [Telegram](https://iamlooper.t.me)
+- 📨 Reach me at [Telegram](https://iamlooper.t.me)
 - 😄 Pronouns: they/them
 - 🎉 Fun fact: I am not actually looping
 

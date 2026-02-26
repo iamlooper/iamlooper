@@ -1,16 +1,20 @@
-### Hi there 👋
+# Hey there! 👋
 
-<!--
-**iamlooper/iamlooper** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Looper, a loopy android developer. I'm passionate about making a difference in the world through my coding skills.
 
-Here are some ideas to get you started:
+- 🚀 Working on making software better
+- 💻 Skilled in procrastination, overthinking, and error generation
+- 🧐 Curious about my projects? Just ask!
+- 📨 Reach me at [Telegram](https://t.me/iamlooper)
+- 🎉 Fun fact: I am not actually looping
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Find me around the web 🌎
+
+- 🌐 [My Website](https://iamlooper.github.io)
+- 💬 [Telegram Channel](https://t.me/loopprojects)
+
+## My GitHub Stats 📊
+
+![](https://raw.githubusercontent.com/iamlooper/iamlooper/main/profile-summary-card-output/dark/1-repos-per-language.svg)
+![](https://raw.githubusercontent.com/iamlooper/iamlooper/main/profile-summary-card-output/dark/2-most-commit-language.svg)
+![](https://raw.githubusercontent.com/iamlooper/iamlooper/main/profile-summary-card-output/dark/3-stats.svg)

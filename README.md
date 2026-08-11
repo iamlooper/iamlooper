@@ -15,6 +15,5 @@ I'm Looper, a loopy android developer. I'm passionate about making a difference 
 
 ## My GitHub Stats 📊
 
-![](https://raw.githubusercontent.com/iamlooper/iamlooper/main/profile-summary-card-output/dark/1-repos-per-language.svg)
-![](https://raw.githubusercontent.com/iamlooper/iamlooper/main/profile-summary-card-output/dark/2-most-commit-language.svg)
-![](https://raw.githubusercontent.com/iamlooper/iamlooper/main/profile-summary-card-output/dark/3-stats.svg)
+![GitHub Stats](./profile/stats.svg)
+![Top Languages](./profile/top-langs.svg)
